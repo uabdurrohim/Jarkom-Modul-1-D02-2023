@@ -40,6 +40,7 @@ d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari
 ## Jawaban Soal 1 : 
 
 a & b  Sequence number (raw) dan juga acknowledge number (raw) pada packet dapat dilihat pada packet  Request yang menunjukkan STOR. Lalu number dapat dilihat di Transmission Control Protocol. 
+
 ![Foto](./img/1.(a,b).png)
 
 ---
