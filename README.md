@@ -123,8 +123,9 @@ Berapa jumlah packet yang menuju IP 184.87.193.88?
 
 ## Jawaban Soal 7 : 
 ---
+Jumlah packet yang menuju IP 184.87.193.88 adalah 6. Cara mengeceknya dengan memasukan filter `ip.dst == 184.87.193.88`
 
-`kendala yang dialami` :
+![Foto](./img/7.png)
 
 ---
 
@@ -135,7 +136,7 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
 ## Jawaban Soal 8 : 
 ---
 
-`kendala yang dialami` :
+Kueri filter yang mengambil protokol paket yang menuju port 80 dengan memasukan filter  `ip.dst == 184.87.193.88`
 
 ---
 
